@@ -1,0 +1,33 @@
+{
+  "ok": true,
+  "v2_size": [
+    1536,
+    2288
+  ],
+  "v1_size": [
+    1536,
+    1872
+  ],
+  "frames_per_row": [
+    6,
+    8,
+    8,
+    4,
+    5,
+    8,
+    6,
+    6,
+    6,
+    8,
+    8
+  ],
+  "required_frames": 73,
+  "video_size": [
+    1080,
+    1920
+  ],
+  "video_frames": 890,
+  "audio_streams": 0,
+  "v2_sha256": "8e3f79a77ac98b7ac3a34bbf4af7a7dd19a61e46e170d692bb5f2e7519ca94c8",
+  "regenerated_video_verified": true
+}

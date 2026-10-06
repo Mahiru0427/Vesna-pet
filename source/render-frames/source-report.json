@@ -1,0 +1,185 @@
+[
+  {
+    "row": 0,
+    "state": "idle",
+    "source_heights": [
+      688,
+      688,
+      679,
+      681,
+      688,
+      688
+    ],
+    "shared_scale": 1.438953488372093,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 1,
+    "state": "running-right",
+    "source_heights": [
+      493,
+      507,
+      497,
+      503,
+      491,
+      505,
+      498,
+      501
+    ],
+    "shared_scale": 1.952662721893491,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 2,
+    "state": "running-left",
+    "source_heights": [
+      500,
+      502,
+      501,
+      502,
+      500,
+      501,
+      501,
+      503
+    ],
+    "shared_scale": 1.9681908548707754,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 3,
+    "state": "waving",
+    "source_heights": [
+      683,
+      683,
+      683,
+      683
+    ],
+    "shared_scale": 1.4494875549048316,
+    "target_height": 990,
+    "source_width": 2168,
+    "source_height": 725
+  },
+  {
+    "row": 4,
+    "state": "jumping",
+    "source_heights": [
+      531,
+      566,
+      591,
+      564,
+      532
+    ],
+    "shared_scale": 1.8609022556390977,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 5,
+    "state": "failed",
+    "source_heights": [
+      571,
+      570,
+      562,
+      550,
+      536,
+      560,
+      562,
+      570
+    ],
+    "shared_scale": 1.733800350262697,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 6,
+    "state": "waiting",
+    "source_heights": [
+      650,
+      641,
+      650,
+      636,
+      650,
+      650
+    ],
+    "shared_scale": 1.523076923076923,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 7,
+    "state": "running",
+    "source_heights": [
+      660,
+      660,
+      660,
+      660,
+      660,
+      660
+    ],
+    "shared_scale": 1.5,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 8,
+    "state": "review",
+    "source_heights": [
+      695,
+      687,
+      691,
+      684,
+      693,
+      694
+    ],
+    "shared_scale": 1.4244604316546763,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 9,
+    "state": "look-row-9",
+    "source_heights": [
+      569,
+      570,
+      570,
+      571,
+      573,
+      573,
+      573,
+      571
+    ],
+    "shared_scale": 1.7277486910994764,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  },
+  {
+    "row": 10,
+    "state": "look-row-10",
+    "source_heights": [
+      598,
+      597,
+      600,
+      598,
+      600,
+      595,
+      602,
+      606
+    ],
+    "shared_scale": 1.6336633663366336,
+    "target_height": 990,
+    "source_width": 2172,
+    "source_height": 724
+  }
+]
